@@ -1,4 +1,5 @@
 # typography
+https://tanishka-khamesara.github.io/typography/typo.html---hosted link
 ![typo1](https://github.com/Tanishka-khamesara/typography/assets/127411985/cd390b05-26d1-4e88-a972-78d5d4440be5)
 ![typo2](https://github.com/Tanishka-khamesara/typography/assets/127411985/91dea361-1d63-47ff-88ff-ce8a846dc8db)
 used normal tags only only iframe tag is different----
